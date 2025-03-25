@@ -612,3 +612,5 @@ const App = () => {
 };
 
 export default App;
+
+// It is a simple React application that displays security logs in a table and provides a chat interface to interact with an AI model. The logs are received from a WebSocket server and displayed in a table with columns for event ID, category, source, time generated, severity, and message. The table can be sorted by clicking on the column headers. The logs can be filtered by severity and category using chips above the table. The application also displays three charts: severity distribution, category distribution, and log trend over time.
