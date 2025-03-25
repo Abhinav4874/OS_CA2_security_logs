@@ -8,3 +8,6 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+
+
+/* Hello I have created this file to show you how to use the createRoot function in React 18.*/
