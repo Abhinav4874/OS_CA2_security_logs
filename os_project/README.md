@@ -23,7 +23,7 @@ Ensure you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/its-sujeet/os_project.git
+git clone https://github.com/Abhinav4874/OS_CA2_security_logs/tree/main/os_project
 ```
 
 ### 2. Navigate to the dashboard directory

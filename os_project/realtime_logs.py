@@ -173,4 +173,4 @@ if __name__ == "__main__":
     start_background_tasks()
     socketio.run(app, port=5000)
     
-    # Created this python file to collect and stream Windows Event Logs in real-time
+    # Created this python file to collect and stream Windows Event Logs in real-time 
